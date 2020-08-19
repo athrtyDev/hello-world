@@ -34,7 +34,8 @@ namespace MemberVote
             var vote61 = panel8.Controls.OfType<RadioButton>().FirstOrDefault(r => r.Checked);
             var vote62 = panel9.Controls.OfType<RadioButton>().FirstOrDefault(r => r.Checked);
             var vote63 = panel10.Controls.OfType<RadioButton>().FirstOrDefault(r => r.Checked);
-
+            
+            // Changes from github
         }
     }
 }
