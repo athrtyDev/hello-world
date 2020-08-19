@@ -1,0 +1,9 @@
+E:\MemberVote\MemberVote\MemberVote\bin\Debug\MemberVote.exe.config
+E:\MemberVote\MemberVote\MemberVote\bin\Debug\MemberVote.exe
+E:\MemberVote\MemberVote\MemberVote\bin\Debug\MemberVote.pdb
+E:\MemberVote\MemberVote\MemberVote\obj\Debug\MemberVote.csprojAssemblyReference.cache
+E:\MemberVote\MemberVote\MemberVote\obj\Debug\MemberVote.Form1.resources
+E:\MemberVote\MemberVote\MemberVote\obj\Debug\MemberVote.Properties.Resources.resources
+E:\MemberVote\MemberVote\MemberVote\obj\Debug\MemberVote.csproj.GenerateResource.cache
+E:\MemberVote\MemberVote\MemberVote\obj\Debug\MemberVote.exe
+E:\MemberVote\MemberVote\MemberVote\obj\Debug\MemberVote.pdb
